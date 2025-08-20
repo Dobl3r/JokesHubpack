@@ -3,7 +3,7 @@
 Funny and crude jokes for **Twitch**, **Kick**, and **YouTube**.  
 Contains several jokes – ranging from light-hearted dad jokes to dark jokes.
 
-## 📦 Actionit ja komennot
+## 📦 Actions and commands
 
 ### 1. Dad Joke – `!jokedad`
 Lightweight, clean dad jokes.
