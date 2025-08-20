@@ -1,4 +1,4 @@
-# StreamerBot Jokes Pack 🎭
+# JokesHubpack 🎭
 
 Funny and crude jokes for **Twitch**, **Kick**, and **YouTube**.  
 Contains several jokes – ranging from light-hearted dad jokes to dark jokes.
