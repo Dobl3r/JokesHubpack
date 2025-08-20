@@ -17,5 +17,3 @@ Classic Chuck Norris jokes.
 Mixed jokes for general humor.
 ### 6. Insult Me – `!insultme`
 Playful insults. Slightly crude, intended as humor.
-### 7. Dark Joke – `!jokedark`
-__**Dark humor, potentially offensive**__.
