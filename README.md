@@ -10,7 +10,7 @@ Lightweight, clean dad jokes.
 ### 2. Mom Joke – `!jokemom`
 Simple, family-friendly mom jokes.  
 ### 3. Geek Joke – `!jokegeek`
-Tech- ja nerd-huumoria, sopii kevyemmäksi viihteeksi.  
+Tech and nerd humor, suitable for light entertainment. 
 ### 4. Chuck Norris Joke – `!jokenorris`
 Classic Chuck Norris jokes. 
 ### 5. General Joke – `!joke`
